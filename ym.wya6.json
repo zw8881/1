@@ -1293,7 +1293,7 @@
     {
       "name": "烟圈💕IP",
       "type": 0,
-      "url": "./lib/湖南电信域名版.m3u",
+      "url": "./lib/湖南电信域名版.m3u8",
       "ua": "okhttp/3.15",
       "timeout": 10,
       "playerType": 1,
