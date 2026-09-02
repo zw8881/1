@@ -1291,7 +1291,7 @@
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
     },
     {
-      "name": "烟圈💕电信",
+      "name": "烟圈💕IP",
       "type": 0,
       "url": "./lib/湖南电信域名版.m3u",
       "ua": "okhttp/3.15",
