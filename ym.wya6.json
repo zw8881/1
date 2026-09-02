@@ -1273,9 +1273,9 @@
   ],
   "lives": [
     {
-      "name": "烟圈💕专用",
+      "name": "烟圈💕移动",
       "type": 0,
-      "url": "./lib/烟圈.m3u",
+      "url": "./lib/湖南移动.m3u",
       "ua": "okhttp/3.15",
       "timeout": 10,
       "playerType": 2,
@@ -1288,6 +1288,15 @@
       "ua": "okhttp/3.15",
       "timeout": 10,
       "playerType": 1,
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
+    },
+    {
+      "name": "烟圈💕ITV",
+      "type": 0,
+      "url": "./lib/湖南iTV.m3u",
+      "ua": "okhttp/3.15",
+      "timeout": 10,
+      "playerType": 2,
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
     },
     {
